@@ -19,7 +19,7 @@
 
 ### Android
 
-Скачайте последний `studen-x.y.z.apk` в разделе [Releases](https://github.com/makcnmovdev/studen/releases) или на сайте: «Настройки» → «Скачать для Android». Для работы нужен Chrome; без него приложение откроется во вкладке другого браузера.
+Скачайте последний `studen-x.y.z.apk` в разделе [Releases](https://github.com/makcnmovdev/studen/releases) или на сайте: «Настройки» → «Скачать для Android». Приложению не нужны Chrome и сервисы Google: оно работает на встроенном в Android движке.
 
 Перед установкой сверьте контрольную сумму с файлом `SHA256SUMS` из того же релиза:
 
